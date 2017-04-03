@@ -1,6 +1,6 @@
 {
   "name": "node-printer-nw-build",
-  "description": "Node.js printer bindings",
+  "description": "NW.js build wrom windows. Node.js printer bindings",
   "version": "0.3.0",
   "homepage": "http://github.com/tojocky/node-printer-nw-build",
   "author": {
