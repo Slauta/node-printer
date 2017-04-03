@@ -1,19 +1,11 @@
 {
   "name": "node-printer-nw-build",
-  "description": "NW.js build wrom windows. Node.js printer bindings",
-  "version": "0.3.0",
-  "homepage": "http://github.com/tojocky/node-printer-nw-build",
-  "author": {
-    "name": "Ion Lupascu",
-    "url": "http://program-support.co.uk/",
-    "email": "ionlupascu@gmail.com"
-  },
-  "contributors": [
-    "Name Lastname <email@server.com>"
-  ],
+  "description": "NW.js build wrom windows.",
+  "version": "1.0.0",
+  "homepage": "http://github.com/Slauta/node-printer-nw-build",
   "repository": {
     "type": "git",
-    "url": "git://github.com/tojocky/node-printer-nw-build.git"
+    "url": "git://github.com/Slauta/node-printer-nw-build.git"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
@@ -23,12 +15,6 @@
   },
   "engines": {
     "node": ">= 0.8.0"
-  },
-  "binary": {
-    "module_name": "node_printer",
-    "module_path": "./lib/",
-    "host": "https://github.com/tojocky/node-printer/releases/download/",
-    "remote_path": "{version}"
   },
   "licenses": [
     {
