@@ -1,7 +1,7 @@
 {
   "name": "node-printer-nw-build",
   "description": "NW.js build wrom windows.",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "homepage": "http://github.com/Slauta/node-printer-nw-build",
   "repository": {
     "type": "git",
