@@ -1,7 +1,7 @@
 {
   "name": "node-printer-nw-build",
   "description": "NW.js build wrom windows.",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "homepage": "http://github.com/Slauta/node-printer-nw-build",
   "repository": {
     "type": "git",
@@ -21,5 +21,13 @@
       "type": "BSD"
     }
   ],
-  "main": "./lib/printer"
+  "main": "./lib/printer",
+  "bugs": {
+    "url": "https://github.com/Slauta/node-printer-nw-build/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
 }
